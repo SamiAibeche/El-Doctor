@@ -2,7 +2,7 @@
 
 #### BeCode Project for Logs generation / automation
 
-## #Usage (Manually)
+### #Usage (Manually)
 
 ```python
 # Open /scripts directory
