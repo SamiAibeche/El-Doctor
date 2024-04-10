@@ -35,7 +35,7 @@ crontask -e
 
 
 ```
-# ADD your CRON TASK (Should be updated based on :
+# ADD your CRON TASKS (Should be updated based on :
 # Your Schedule AND Your Script Direcctory on your server)
 
 # m h  dom mon dow   command
