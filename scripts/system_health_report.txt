@@ -1,0 +1,38 @@
+System Health Report for Tue Apr  9 09:07:32 PM UTC 2024
+---------------------------------
+
+CPU Load:
+ 21:07:32 up 13:51,  3 users,  load average: 0.00, 0.00, 0.00
+
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           3.8Gi       339Mi       2.7Gi       7.0Mi       845Mi       3.3Gi
+Swap:          2.9Gi          0B       2.9Gi
+
+Disk Usage:
+Filesystem                         Size  Used Avail Use% Mounted on
+tmpfs                              392M  1.4M  390M   1% /run
+/dev/mapper/ubuntu--vg-ubuntu--lv   15G  6.8G  6.7G  51% /
+tmpfs                              2.0G     0  2.0G   0% /dev/shm
+tmpfs                              5.0M     0  5.0M   0% /run/lock
+/dev/vda2                          2.0G  129M  1.7G   8% /boot
+/dev/vda1                          1.1G  6.4M  1.1G   1% /boot/efi
+tmpfs                              392M  4.0K  392M   1% /run/user/1000
+
+Top 5 Memory-Consuming Processes:
+%MEM %CPU COMMAND
+ 3.7  0.0 mariadbd
+ 0.7  0.0 apache2
+ 0.6  0.0 snapd
+ 0.6  0.0 multipathd
+ 0.5  0.0 systemd-journal
+
+Failed System Services:
+  UNIT                     LOAD   ACTIVE SUB    DESCRIPTION
+● isc-dhcp-server6.service loaded failed failed ISC DHCP IPv6 server
+
+LOAD   = Reflects whether the unit definition was properly loaded.
+ACTIVE = The high-level unit activation state, i.e. generalization of SUB.
+SUB    = The low-level unit activation state, values depend on unit type.
+1 loaded units listed.
+System health report also saved to
