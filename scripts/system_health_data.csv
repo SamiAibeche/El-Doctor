@@ -1,0 +1,3 @@
+Date,Time,CPU Load (%),Memory Free (MB),Disk Usage (%),Top Process
+2024-04-09,21:38:10,3.1,2642,51%," /sbin/init"
+2024-04-09,21:39:05,17.2,2638,51%," /sbin/init"
