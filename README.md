@@ -7,8 +7,6 @@
 
 Link : <a href="https://github.com/metal3d/bashsimplecurses" target="_blank">https://github.com/metal3d/bashsimplecurses</a>
 
-![](./assets/bashcurses.png)
-
 ```python
 # Open /scripts directory
 cd /scripts
@@ -18,6 +16,9 @@ cd /scripts
 
 # Navigate and Enjoy it !
 ```
+
+![](./assets/bashcurses.png)
+
 ### Usage (Manually)
 
 ```python
