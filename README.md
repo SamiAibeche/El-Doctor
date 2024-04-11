@@ -2,6 +2,22 @@
 
 #### BeCode Project for Logs generation / automation
 
+
+### Usage of Bash Simple Curses
+
+Link : <a href="https://github.com/metal3d/bashsimplecurses" target="_blank">https://github.com/metal3d/bashsimplecurses</a>
+
+![](./assets/bashcurses.png)
+
+```python
+# Open /scripts directory
+cd /scripts
+
+# Execute the file to see the prompt management using BashSimpleCurse
+./bashsimplecurses.sh
+
+# Navigate and Enjoy it !
+```
 ### Usage (Manually)
 
 ```python
