@@ -8,6 +8,7 @@
 Link : <a href="https://github.com/metal3d/bashsimplecurses" target="_blank">https://github.com/metal3d/bashsimplecurses</a>
 
 ```python
+
 # Open /scripts directory
 cd /scripts
 
